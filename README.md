@@ -5,6 +5,9 @@ Part of research and notes for an upcoming O'Reilly book on AWS.
 ## Outline
 
 ### Chapter 1:  Getting started with .NET on AWS
+
+* [chap1-src-examples](https://github.com/noahgift/DotNet-AWS/tree/main/chapters/chap1)
+
 ### Chapter 2:  AWS Core Services
 ### Chapter 3:  Migrating a legacy .NET application to AWS--
 ### Chapter 4:  Modernizing .NET applications to Serverless--
