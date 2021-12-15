@@ -5,6 +5,6 @@ $cloud9Env = @{ env1 = "18acd120518340df8a73ccaab641851e";
                 env3 = "f104b0141c284a41af0c75fea7890770" }
 
 foreach ($env in $cloud9Env.GetEnumerator()) {
-            Write-Host "Information for $env:";
+            Write-Host "Information for $($env.Key):";
             Get-C9EnvironmentData $($env.Value)
 }
