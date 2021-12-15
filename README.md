@@ -25,3 +25,4 @@ Part of research and notes for an upcoming O'Reilly book on AWS.
 * [AWS-Net-Guides](https://github.com/aws-samples/aws-net-guides)
 * [AWS Tools for PowerShell Documentation](https://docs.aws.amazon.com/powershell/index.html)
 * [AWS PowerShell Reference](https://docs.aws.amazon.com/powershell/latest/reference/)
+* [Setting Up a .NET and PowerShell Development Environment with AWS Cloud9 and Amazon EC2](https://www.youtube.com/watch?v=3ZdvbGArONk)
