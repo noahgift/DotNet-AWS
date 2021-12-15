@@ -16,6 +16,7 @@ Part of research and notes for an upcoming O'Reilly book on AWS.
 ### Chapter 7:  Monitoring, Instrumentation and Auditing and Testing for .NET
 ### Chapter 8: Developing with AWS C# SDK
 
+### Appendix A:  Installing .NET on Mac OS X
 
 ## Resources
 
