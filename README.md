@@ -18,6 +18,8 @@ Part of research and notes for an upcoming O'Reilly book on AWS.
 
 ### Appendix A:  Installing .NET on Mac OS X
 
+* [Notes on OS X and Visual Studio](https://github.com/noahgift/DotNet-AWS/blob/main/chapters/appendix/AppendixA-OSX-DotNet.md) 
+
 ## Resources
 
 * [.NET 6 Release](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
