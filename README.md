@@ -22,6 +22,7 @@ Part of research and notes for an upcoming O'Reilly book on AWS.
 
 ## Resources
 
+* [What's new in C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
 * [.NET 6 Release](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
 * [.NET CDK Centralized Logging](https://aws.amazon.com/blogs/developer/build-infrastructure-for-centralized-logging-using-aws-cdk/)
 * [AWS-Net-Guides](https://github.com/aws-samples/aws-net-guides)
