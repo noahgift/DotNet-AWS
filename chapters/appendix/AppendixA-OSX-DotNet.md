@@ -1,8 +1,11 @@
-## Getting started
+## Getting AWS Visual Studio setup for a Mac
 
-Start with the interactive documentation for [Hello World in the browser]
-(https://docs.microsoft.com/en-us/learn/modules/csharp-write-first/2-exercise-hello-world)
+### Download Virtualization software
 
-```cs
-Console.WriteLine("Hello AWS C#")
-```
+* [Parallels](https://www.parallels.com)
+* Pick Windows 11 and install
+* Install Visual Studio 2022
+* Install .NET 6.X
+* Install AWS for Visual Studio
+* Start coding
+
