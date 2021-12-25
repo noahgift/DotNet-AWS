@@ -3,8 +3,34 @@
 Start with the interactive documentation for [Hello World in the browser]
 (https://docs.microsoft.com/en-us/learn/modules/csharp-write-first/2-exercise-hello-world)
 
-### Hello World
+### Hello World in Github Codespaces
 
-```cs
-Console.WriteLine("Hello AWS C#")
+Next up try out Github Codespaces and the [Visual Studio Code tutorial](https://code.visualstudio.com/docs/languages/dotnet).
+
+First create a new console app from the CLI and name it HelloWorld
+```powershell
+dotnet new console -n HelloWorld
+```
+
+This creates a console project.  Next change the code in `Program.cs` to the following example.
+
+```csharp
+using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World C# on AWS!");
+        }
+    }
+}
+```
+
+Next, run the code:  `dotnet run`.  The output of the command will be the following.
+
+```
+Hello World C# on AWS!
 ```
