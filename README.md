@@ -20,6 +20,10 @@ Part of research and notes for an upcoming O'Reilly book on AWS.
 
 * [Notes on OS X and Visual Studio](https://github.com/noahgift/DotNet-AWS/blob/main/chapters/appendix/AppendixA-OSX-DotNet.md) 
 
+### Appendix B:  tutorial on C# 10 for .NET 6
+
+* [CSharp-Tutorial](https://github.com/noahgift/DotNet-AWS/blob/main/chapters/appendix/AppendixB-CSharp-Tutorial)
+
 ## Resources
 
 * [What's new in C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
