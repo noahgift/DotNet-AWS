@@ -1,6 +1,6 @@
 # DotNet-AWS
 Resources and Examples of .NET on AWS
-Part of research and notes for an upcoming O'Reilly book on AWS.
+Part of research and notes for an upcoming O'Reilly book on AWS, working title is "C# on AWS".
 
 ## Outline
 
