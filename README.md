@@ -36,3 +36,4 @@ Part of research and notes for an upcoming O'Reilly book on AWS, working title i
 * [Setting Up a .NET and PowerShell Development Environment with AWS Cloud9 and Amazon EC2](https://www.youtube.com/watch?v=3ZdvbGArONk)
 * [Benchmarking AWS](https://github.com/noahgift/benchmarking-aws)
 * [Working with the AWS CDK in C#](https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-csharp.html)
+* [Nuget for awsdotnet](https://www.nuget.org/profiles/awsdotnet)
