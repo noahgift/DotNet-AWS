@@ -6,6 +6,7 @@ Example based on converting [this tutorial](https://docs.aws.amazon.com/sdk-for-
 
 
 * Create new Console App project targeting .NET 6
+* Install  AWSSDK.S3 With the newly created project loaded, choose Tools, NuGet Package Manager, Manage NuGet Packages for Solution.
 * Paste the following code
 
 ```csharp
