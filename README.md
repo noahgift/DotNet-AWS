@@ -1,6 +1,6 @@
 # DotNet-AWS
 Resources and Examples of .NET on AWS
-Part of research and notes for an upcoming O'Reilly book on AWS.
+Part of research and notes for an upcoming O'Reilly book on AWS, working title is "C# on AWS".
 
 ## Outline
 
@@ -34,3 +34,6 @@ Part of research and notes for an upcoming O'Reilly book on AWS.
 * [AWS Tools for PowerShell Documentation](https://docs.aws.amazon.com/powershell/index.html)
 * [AWS PowerShell Reference](https://docs.aws.amazon.com/powershell/latest/reference/)
 * [Setting Up a .NET and PowerShell Development Environment with AWS Cloud9 and Amazon EC2](https://www.youtube.com/watch?v=3ZdvbGArONk)
+* [Benchmarking AWS](https://github.com/noahgift/benchmarking-aws)
+* [Working with the AWS CDK in C#](https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-csharp.html)
+* [Nuget for awsdotnet](https://www.nuget.org/profiles/awsdotnet)
