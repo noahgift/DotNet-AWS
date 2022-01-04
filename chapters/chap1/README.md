@@ -38,3 +38,10 @@ static async Task<ListBucketsResponse> MyListBucketsAsync(IAmazonS3 s3Client)
     return await s3Client.ListBucketsAsync();
 }
 ```
+
+## References
+
+* [Watch on YouTube](https://youtu.be/DGI_Vd04DpM)
+* [Watch on O'Reilly](https://learning.oreilly.com/videos/build-aws-console/01032022VIDEOPAIML/)
+
+
