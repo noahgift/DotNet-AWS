@@ -40,3 +40,4 @@ Part of research and notes for an upcoming O'Reilly book on AWS, working title i
 * [Benchmarking AWS](https://github.com/noahgift/benchmarking-aws)
 * [Working with the AWS CDK in C#](https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-csharp.html)
 * [Nuget for awsdotnet](https://www.nuget.org/profiles/awsdotnet)
+* [aws-extensions-for-dotnet-cli](https://github.com/aws/aws-extensions-for-dotnet-cli)
