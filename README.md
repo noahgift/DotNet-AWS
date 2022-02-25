@@ -12,6 +12,9 @@ Part of research and notes for an upcoming O'Reilly book on AWS, working title i
 ### Chapter 3:  Migrating a legacy .NET application to AWS--
 ### Chapter 4:  Modernizing .NET applications to Serverless--
 ### Chapter 5:  Containerization of .NET
+
+* [chap5-src-examples](https://github.com/noahgift/dot-net-6-aws)
+
 ### Chapter 6:  DevOps
 ### Chapter 7:  Monitoring, Instrumentation and Auditing and Testing for .NET
 ### Chapter 8: Developing with AWS C# SDK
