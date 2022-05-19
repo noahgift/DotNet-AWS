@@ -19,14 +19,15 @@ using System;
 
 namespace HelloWorld
 {
- class Program
- {
- static void Main(string[] args)
- {
- Console.WriteLine("Hello World C# on AWS!");
- }
- }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World C# on AWS!");
+        }
+    }
 }
+
 ```
 
 Next, cd into the directory `cd HelloWorld` and run the code: `dotnet run`. The output of the command will be the following.
@@ -50,13 +51,13 @@ open System
 
 // Define a function to construct a message to print
 let from whom =
- sprintf "from %s" whom
+    sprintf "from %s" whom
 
 [<EntryPoint>]
 let main argv =
- let message = from "F# on AWS" // Call the function
- printfn "Hello world %s" message
- 0 // return an integer exit code
+    let message = from "F# on AWS" // Call the function
+    printfn "Hello world %s" message
+    0 // return an integer exit code
 ```
 
 
