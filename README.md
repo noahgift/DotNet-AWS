@@ -9,6 +9,9 @@ Part of research and notes for an upcoming O'Reilly book on AWS, working title i
 * [chap1-src-examples](https://github.com/noahgift/DotNet-AWS/tree/main/chapters/chap1)
 
 ### Chapter 2:  AWS Core Services
+
+* [2-3-powershell-ec2.ps](https://gist.github.com/noahgift/c16ccb8869d7e15f959e5550b3886f34)
+
 ### Chapter 3:  Migrating a legacy .NET application to AWS--
 ### Chapter 4:  Modernizing .NET applications to Serverless--
 ### Chapter 5:  Containerization of .NET
