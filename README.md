@@ -17,6 +17,7 @@ Part of research and notes for an upcoming O'Reilly book on AWS, working title i
 ### Chapter 5:  Containerization of .NET
 
 * [chap5-src-examples](https://github.com/noahgift/dot-net-6-aws)
+* [5-4-2-cloud9-project-setup.sh](https://gist.github.com/noahgift/0799c6a461a6d5ae858ab08c7a512d18)
 
 ### Chapter 6:  DevOps
 ### Chapter 7:  Monitoring, Instrumentation and Auditing and Testing for .NET
