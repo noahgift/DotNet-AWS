@@ -34,6 +34,7 @@ Part of research and notes for an upcoming O'Reilly book on AWS, working title i
 ## Resources
 
 * [What's new in C# 10](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10)
+* [Developing on AWS with C# Free PDF O'Reilly book](https://d1.awsstatic.com/developer-center/Developing-on-AWS-with-CSharp.pdf)
 * [C# 9 in a Nutshell O'Reilly Code Examples Website](http://www.albahari.com/nutshell/)
 * [.NET 6 Release](https://devblogs.microsoft.com/dotnet/announcing-net-6/)
 * [.NET CDK Centralized Logging](https://aws.amazon.com/blogs/developer/build-infrastructure-for-centralized-logging-using-aws-cdk/)
@@ -45,3 +46,4 @@ Part of research and notes for an upcoming O'Reilly book on AWS, working title i
 * [Working with the AWS CDK in C#](https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-csharp.html)
 * [Nuget for awsdotnet](https://www.nuget.org/profiles/awsdotnet)
 * [aws-extensions-for-dotnet-cli](https://github.com/aws/aws-extensions-for-dotnet-cli)
+* [Duke Coursera Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
